@@ -1,4 +1,4 @@
-<img scr="http://3.bp.blogspot.com/-EDRVlI1t0zY/UMjLN4IAcrI/AAAAAAAACzU/tymqQeCnKDk/s1600/IMG_7804.jpg" width="1600" height="1195" />
+<img scr="http://3.bp.blogspot.com/-EDRVlI1t0zY/UMjLN4IAcrI/AAAAAAAACzU/tymqQeCnKDk/s1600/IMG_7804.jpg" width="800" height="598" />
 
 # Manjares Navideños
 ## Arroz con gandules
