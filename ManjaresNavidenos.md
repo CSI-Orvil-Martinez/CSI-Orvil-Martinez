@@ -1,7 +1,11 @@
+<div align="center">
+
 <img scr="http://3.bp.blogspot.com/-EDRVlI1t0zY/UMjLN4IAcrI/AAAAAAAACzU/tymqQeCnKDk/s1600/IMG_7804.jpg" width="800" height="598" />
 
 # Manjares Navideños
 ## Arroz con gandules
+</div>  
+  
 ### Ingredientes: 
 - **1** cucharada sopera de Aceite de achiote
 - **1** cucharadita de Pimentón dulce
@@ -16,6 +20,7 @@
 - **3½** tazas de Agua (840 mililitros)
 - **1** pizca de Sal y Pimienta negra
 - **2** tazas de Carne de cerdo picada (cocida)
+
 
 ### Procedimientos:
 1. Para alistar los ingredientes, pica toda la verdura finamente.
@@ -32,6 +37,11 @@
 12. Justo antes de servir, revuelva el arroz con gandules con un tenedor para que quede desgranado.
 13. Para que el arroz quede suelto, cuando todos los ingredientes estén hirviendo coloca una cuchara de madera en el medio de la olla, si esta se mueve o se tambalea quiere decir que tiene demasiado liquido, así que aprovecha y quita el sobrante.
 14. Disfrutar el arroz con gandules.
+
+### Video:
+- https://www.youtube.com/watch?v=zG5fTpfMJcs
+
+<br>
 
 #### Referencias:
 https://www.recetasgratis.net/receta-de-arroz-con-gandules-puertorriqueno-10408.html
